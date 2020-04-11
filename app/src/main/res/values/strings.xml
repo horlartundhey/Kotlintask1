@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">myner</string>
+
+    <string name="MyHNGDetails">
+        <br>
+            HNG TASK 1
+        \n</br>
+        <br>
+
+    FULL NAME : IBITOYE OLATUNDE \n</br>
+        <br>
+    SLACK USERNAME: HORLARTUNDHEY\n</br>
+        <br>
+    EMAIL : HORLARTUNDHEY@GMAIL.COM \n</br>
+        <br>
+    MOBILE, BACKEND, FRONTEND \n</br>
+
+    </string>
+</resources>
